@@ -20,4 +20,6 @@ int main()
 	// display 'Luasnya adalah = ' + nLuas 
 	cout << "Luasnya adalah = " << nLuas;
   
-}
+}//end 
+
+//test komen 
